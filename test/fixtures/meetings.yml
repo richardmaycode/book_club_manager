@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  club: one
+  scheduled: 2024-01-15 15:55:23
+  duration: 1
+  venue: 1
+  physical: MyString
+  virtual: MyString
+
+two:
+  club: two
+  scheduled: 2024-01-15 15:55:23
+  duration: 1
+  venue: 1
+  physical: MyString
+  virtual: MyString

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  club: one
+  user: one
+  joined: 2024-01-17
+  status: 1
+
+two:
+  club: two
+  user: two
+  joined: 2024-01-17
+  status: 1
