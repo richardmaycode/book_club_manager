@@ -1,0 +1,10 @@
+<%= turbo_frame_tag 'club_books' do %>
+  <%= tag.div class: "flex flex-col gap-4 h-64 overflow-auto px-4" do %>
+    <% @books.each do |book| %>
+      <%= tag.div class: "rounded-md shadow p-4", id: dom_id(book) do %>
+        <%= book.title %>
+        <%= book.author %>
+      <% end %>
+    <% end %>
+  <% end %>
+<% end %>

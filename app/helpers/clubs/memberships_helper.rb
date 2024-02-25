@@ -1,0 +1,2 @@
+module Clubs::MembershipsHelper
+end
