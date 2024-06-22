@@ -1,0 +1,2 @@
+module Clubs::MeetingsHelper
+end
